@@ -1,26 +1,37 @@
-# Project Title
+# Map of the Realm: Know Thy Data
 
-## Overview
-Brief description of what this project is, what it's about, and what a viewer or learner will gain from it.
+This project explores the fundamentals of working with different data types and structures—both imported and integrated—through a whimsical lens inspired by the Kingdom of Data. It's a companion project to the YouTube video *"Map of the Realm: Know Thy Data,"* part of the **Welcome to the Data Kingdom** series.
 
-This project was created as part of my [YouTube channel](https://youtube.com/@thequirkydatascientist), where I walk through real-world data projects in a fun and beginner-friendly way.
+## What's Inside
+
+- Example datasets showcasing various data types within Python and common structured formats
+- Messy and clean data for practicing identification and transformation
+- A walkthrough notebook to explore and classify types of data found in the realm
+- Step-by-step guidance on importing and lightly cleaning data, with explanations designed for beginners
+
+## Watch the Video
+
+📺 [Coming soon: Map of the Realm: Know Thy Data on YouTube](https://youtube.com/@thequirkydatascientist)
 
 ## Project Structure
 
-- `data/`: Raw, interim, and processed data files
-- `notebooks/`: Jupyter/Colab notebooks for each step of the workflow
-- `outputs/`: Figures, charts, and reports from the analysis
-- `scripts/`: (Optional) Python modules for cleaning or processing
+- `data/`: Raw, interim, and processed datasets
+- `notebooks/`: Jupyter notebooks used for exploration and data type classification
+- `outputs/`: Saved figures, reports, and supporting files
+- `scripts/`: Optional Python modules used in preprocessing or automation
 
 ## How to Use
 
-1. Clone the repo  
-2. Open notebooks in the `notebooks/` folder  
-3. Follow along with the video walkthrough  
-4. Try modifying the project or adding your own data!
+1. Clone the repo
+2. Open `notebooks/01-exploration.ipynb` in Jupyter or Google Colab
+3. Follow along with the walkthrough or try your own classification and cleanup
+4. View saved charts and reports in the `outputs/` folder
 
-## Related Content
+## Goals
 
-📺 Watch the full video: [YouTube Video Link Here]
+- Reinforce core data type concepts through hands-on exploration
+- Help beginners recognize and navigate a variety of real-world data structures
 
-📦 Explore other projects: [https://github.com/the-quirky-data-scientist](https://github.com/the-quirky-data-scientist)
+## License
+
+Feel free to use or remix this project for your own learning, teaching, or content creation.
